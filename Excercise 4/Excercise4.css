@@ -1,0 +1,10 @@
+/* Change the color of all <p> and <h1> elements, to "red". Group the selectors to minimize code. */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p , h1 {
+    color: red;
+}

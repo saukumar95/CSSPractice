@@ -1,0 +1,10 @@
+/* Change the color of the element with id="para1", to "red". */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#para1 {
+    color: red;
+}

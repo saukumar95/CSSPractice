@@ -1,0 +1,12 @@
+/*
+    Change the color of all <p> elements to "red".
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: red;
+}
